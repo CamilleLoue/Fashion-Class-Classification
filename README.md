@@ -1,4 +1,4 @@
-# Fashion-Class-Classification
+# Fashion Class Classification
 
 **Aim of this project** Classify fashion articles among 10 categories using CNN.
 
